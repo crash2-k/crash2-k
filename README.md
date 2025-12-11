@@ -1,66 +1,73 @@
-<!-- Header with Anime Character -->
+<!-- HEADER: Cool Cyberpunk/Anime Gif -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5Zm15bWhqaW93aWx5emEzZmxzYmR6ZWhuZGZ6aHg4OXM1bWxjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MDHJ34yX5aF87aH5Kk/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/f31DK1KpGsyMU/giphy.gif" width="100%" />
 </div>
 
-<!-- Typing Animation -->
+<!-- TYPING ANIMATION: Neon Blue & Green -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F49AC2&center=true&vCenter=true&width=435&lines=Hello+crash2-k!+%E2%9C%A8;AI+%26+ML+Student+%F0%9F%A7%AA;Training+Neural+Networks;Watching+Anime+%F0%9F%91%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=SYSTEM_INIT...;USER:+crash2-k;STATUS:+LEARNING_AI;TARGET:+DATA_MASTERY;LOADING_NEURAL_NET..." alt="Typing SVG" />
 </div>
 
-<br/>
+<br />
 
-<!-- Intro Section with Side-by-Side Character -->
+<!-- INTRO SECTION: Terminal Style -->
 <div align="center">
-  <table>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>
+
+<h3 align="center">⚡ SYSTEM STATUS: ONLINE</h3>
+
+<div align="center">
+  <table align="center">
     <tr>
-      <td valign="center">
-        <h1>I'm crash2-k 🌸</h1>
-        <p>I am a student currently training my own neural networks (and myself)!</p>
-        <p>
-          🔭 <b>Working on:</b> Machine Learning Models<br>
-          🌱 <b>Learning:</b> Data Science & Python<br>
-          💞 <b>Vibe:</b> Cute Anime & Clean Code<br>
-          🧠 <b>Goal:</b> To build AI that understands anime
-        </p>
+      <td>
+        <img src="https://media.giphy.com/media/Quehyl5s1bT67M7O5E/giphy.gif" width="200" />
       </td>
       <td valign="center">
-        <!-- Cute coding anime character -->
-        <img src="https://media.giphy.com/media/L1R1TVq2ZSgnS/giphy.gif" width="220" />
+        ⚡ <b>Subject:</b> crash2-k <br>
+        🤖 <b>Protocol:</b> Machine Learning & Deep Learning <br>
+        📡 <b>Current Op:</b> Studying Data Science <br>
+        🧠 <b>Main Weapon:</b> Python <br>
+        💾 <b>Mission:</b> Dominate the Algorithm
       </td>
     </tr>
   </table>
 </div>
 
-<br/>
+<br />
 
-<!-- Tech Stack (Python & Data Science Focused) -->
-<h3 align="center">🧪 My Data Science Lab</h3>
+<!-- TECH STACK: Animated Icons -->
+<h3 align="center">🛠️ ARSENAL (Tech Stack)</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,pandas,numpy,sklearn,matplotlib,vscode,git,jupyter,mysql&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,linux,docker,git,vscode,mysql,pandas,numpy,sklearn,aws,cpp&perline=7" />
 </div>
 
-<br/>
+<br />
 
-<!-- Cute Stats (Using "Radical" theme for the pink/anime look) -->
-<h3 align="center">📊 My Stats</h3>
+<!-- STATS: Dark/Tokyonight Theme to look "Manly/Tech" -->
+<h3 align="center">📊 PERFORMANCE METRICS</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crash2-k&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crash2-k&layout=compact&theme=radical&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=crash2-k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crash2-k&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
 </div>
 
-<br/>
-
-<!-- Snake Animation Section -->
-<h3 align="center">🐍 My Contribution Snake</h3>
+<!-- STREAK STATS: Fire Animation -->
 <div align="center">
-  <!-- This points to the output branch of your repo -->
-  <img src="https://raw.githubusercontent.com/crash2-k/crash2-k/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crash2-k&theme=tokyonight&hide_border=true&background=00000000" />
 </div>
 
-<br/>
+<br />
 
-<!-- Footer Anime Gif -->
+<!-- SNAKE GAME: The Animation -->
+<h3 align="center">🐍 CONTRIBUTION GRID</h3>
 <div align="center">
- <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/crash2-k/crash2-k/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+</div>
+
+<br />
+
+<!-- FOOTER: Glitch Effect -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKsAds5eANHQJiw/giphy.gif" width="100%" />
 </div>
