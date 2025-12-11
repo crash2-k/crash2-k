@@ -3,26 +3,20 @@
   <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="250" style="object-fit: cover;" />
 </div>
 
-<!-- TERMINAL BOOT SEQUENCE ANIMATION -->
+<!-- TERMINAL BOOT SEQUENCE -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=700&size=40&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=500&lines=SYSTEM_BOOT%3A+crash2-k;INITIALIZING+NEURAL_NETWORKS...;ACCESSING+MAINFRAME...;STATUS%3A+GOD_MODE+ENABLED;TARGET%3A+ARTIFICIAL_INTELLIGENCE" alt="Typing SVG" />
-</div>
-
-<!-- ANIMATED LOADING BAR -->
-<div align="center">
-  <img src="https://media.giphy.com/media/TqiwHbFBaZ4ti/giphy.gif" width="100%" height="30" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=40&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=500&lines=SYSTEM_BOOT%3A+crash2-k;INITIALIZING+NEURAL_NETWORKS...;ACCESSING+MAINFRAME...;STATUS%3A+GOD_MODE+ENABLED" alt="Typing SVG" />
 </div>
 
 <br />
 
-<!-- PROFILE SECTION: HACKER VIBE -->
+<!-- PROFILE SECTION -->
 <div align="center">
   <table align="center" style="border: none;">
     <tr>
       <td valign="center" align="left">
         <h2 style="color: #00FF41;"> >_ WHOAMI</h2>
         <p>
-          <img src="https://media.giphy.com/media/L1R1TVq2ZSgnS/giphy.gif" width="30" /> <b>Unit:</b> crash2-k <br>
           ⚡ <b>Class:</b> AI Architect / Data Wraith <br>
           🧠 <b>Core:</b> Machine Learning & Deep Learning <br>
           🛰️ <b>Orbit:</b> Python Data Science Ecosystem <br>
@@ -39,16 +33,15 @@
 
 <br />
 
-<!-- TECH STACK WITH SCANNING ANIMATION -->
-<h3 align="center">🛠️ WEAPON SYSTEM (TECH STACK)</h3>
+<!-- TECH STACK -->
+<h3 align="center">🛠️ WEAPON SYSTEM</h3>
 <div align="center">
-  <!-- Matrix Rain Background effect implied by the icons -->
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,linux,bash,docker,git,vscode,mysql,pandas,numpy,sklearn,aws,cpp&perline=8&theme=dark" />
 </div>
 
 <br />
 
-<!-- 3D ISOMETRIC ACTIVITY GRAPH (ANIMATED) -->
+<!-- 3D ACTIVITY GRAPH -->
 <h3 align="center">📡 NETWORK TRAFFIC</h3>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=crash2-k&theme=react-dark&bg_color=0D1117&hide_border=true&line=00FF41&color=00FF41" width="100%" />
@@ -56,30 +49,30 @@
 
 <br />
 
-<!-- GITHUB STATS (NEON THEME) -->
+<!-- FIXED STATS & STREAK (Switched to Stable Server) -->
 <h3 align="center">📊 PERFORMANCE LOGS</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crash2-k&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crash2-k&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=crash2-k&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crash2-k&layout=compact&theme=dark&hide_border=true&bg_color=00000000" height="150" />
 </div>
 
-<!-- STREAK STATS (FIRE ANIMATION) -->
 <div align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crash2-k&theme=vision-friendly-dark&hide_border=true&background=00000000&fire=00FF41" />
+  <!-- Switched to demolab (more stable than heroku) -->
+  <img src="https://github-readme-streak-stats.demolab.com/?user=crash2-k&theme=dark&hide_border=true&background=00000000&fire=00FF41" />
 </div>
 
 <br />
 
-<!-- SNAKE GAME ANIMATION -->
+<!-- SNAKE GAME -->
 <h3 align="center">🐍 ENCRYPTED DATA STREAM</h3>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/crash2-k/crash2-k/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/crash2-k/crash2-k/output/github-contribution-grid-snake.svg" alt="Generate the Snake in Actions Tab!" width="100%"/>
 </div>
 
 <br />
 
-<!-- FOOTER: SHUTDOWN ANIMATION -->
+<!-- FIXED FOOTER GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiU1jGWEOwn/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/LmqMk6aC9I18n8oT2q/giphy.gif" width="100%" />
 </div>
