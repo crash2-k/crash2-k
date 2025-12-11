@@ -1,34 +1,37 @@
-<!-- HEADER: Cool Cyberpunk/Anime Gif -->
+<!-- CYBERPUNK GLITCH HEADER -->
 <div align="center">
-  <img src="https://media.giphy.com/media/f31DK1KpGsyMU/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="250" style="object-fit: cover;" />
 </div>
 
-<!-- TYPING ANIMATION: Neon Blue & Green -->
+<!-- TERMINAL BOOT SEQUENCE ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=SYSTEM_INIT...;USER:+crash2-k;STATUS:+LEARNING_AI;TARGET:+DATA_MASTERY;LOADING_NEURAL_NET..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=700&size=40&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=500&lines=SYSTEM_BOOT%3A+crash2-k;INITIALIZING+NEURAL_NETWORKS...;ACCESSING+MAINFRAME...;STATUS%3A+GOD_MODE+ENABLED;TARGET%3A+ARTIFICIAL_INTELLIGENCE" alt="Typing SVG" />
+</div>
+
+<!-- ANIMATED LOADING BAR -->
+<div align="center">
+  <img src="https://media.giphy.com/media/TqiwHbFBaZ4ti/giphy.gif" width="100%" height="30" />
 </div>
 
 <br />
 
-<!-- INTRO SECTION: Terminal Style -->
+<!-- PROFILE SECTION: HACKER VIBE -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</div>
-
-<h3 align="center">⚡ SYSTEM STATUS: ONLINE</h3>
-
-<div align="center">
-  <table align="center">
+  <table align="center" style="border: none;">
     <tr>
-      <td>
-        <img src="https://media.giphy.com/media/Quehyl5s1bT67M7O5E/giphy.gif" width="200" />
+      <td valign="center" align="left">
+        <h2 style="color: #00FF41;"> >_ WHOAMI</h2>
+        <p>
+          <img src="https://media.giphy.com/media/L1R1TVq2ZSgnS/giphy.gif" width="30" /> <b>Unit:</b> crash2-k <br>
+          ⚡ <b>Class:</b> AI Architect / Data Wraith <br>
+          🧠 <b>Core:</b> Machine Learning & Deep Learning <br>
+          🛰️ <b>Orbit:</b> Python Data Science Ecosystem <br>
+          💀 <b>Status:</b> Training Models to Conquer the World
+        </p>
       </td>
-      <td valign="center">
-        ⚡ <b>Subject:</b> crash2-k <br>
-        🤖 <b>Protocol:</b> Machine Learning & Deep Learning <br>
-        📡 <b>Current Op:</b> Studying Data Science <br>
-        🧠 <b>Main Weapon:</b> Python <br>
-        💾 <b>Mission:</b> Dominate the Algorithm
+      <td valign="center" align="center">
+        <!-- ANIMATED CYBERPUNK CHARACTER -->
+        <img src="https://i.pinimg.com/originals/e5/28/67/e528678c18dc33907b22ba71dc225f20.gif" width="250" style="border-radius: 10px; box-shadow: 0px 0px 20px #00FF41;" />
       </td>
     </tr>
   </table>
@@ -36,38 +39,47 @@
 
 <br />
 
-<!-- TECH STACK: Animated Icons -->
-<h3 align="center">🛠️ ARSENAL (Tech Stack)</h3>
+<!-- TECH STACK WITH SCANNING ANIMATION -->
+<h3 align="center">🛠️ WEAPON SYSTEM (TECH STACK)</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,linux,docker,git,vscode,mysql,pandas,numpy,sklearn,aws,cpp&perline=7" />
+  <!-- Matrix Rain Background effect implied by the icons -->
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,linux,bash,docker,git,vscode,mysql,pandas,numpy,sklearn,aws,cpp&perline=8&theme=dark" />
 </div>
 
 <br />
 
-<!-- STATS: Dark/Tokyonight Theme to look "Manly/Tech" -->
-<h3 align="center">📊 PERFORMANCE METRICS</h3>
+<!-- 3D ISOMETRIC ACTIVITY GRAPH (ANIMATED) -->
+<h3 align="center">📡 NETWORK TRAFFIC</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crash2-k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crash2-k&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crash2-k&theme=react-dark&bg_color=0D1117&hide_border=true&line=00FF41&color=00FF41" width="100%" />
 </div>
 
-<!-- STREAK STATS: Fire Animation -->
+<br />
+
+<!-- GITHUB STATS (NEON THEME) -->
+<h3 align="center">📊 PERFORMANCE LOGS</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=crash2-k&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crash2-k&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000" height="160"/>
+</div>
+
+<!-- STREAK STATS (FIRE ANIMATION) -->
 <div align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crash2-k&theme=tokyonight&hide_border=true&background=00000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crash2-k&theme=vision-friendly-dark&hide_border=true&background=00000000&fire=00FF41" />
 </div>
 
 <br />
 
-<!-- SNAKE GAME: The Animation -->
-<h3 align="center">🐍 CONTRIBUTION GRID</h3>
+<!-- SNAKE GAME ANIMATION -->
+<h3 align="center">🐍 ENCRYPTED DATA STREAM</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/crash2-k/crash2-k/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
 </div>
 
 <br />
 
-<!-- FOOTER: Glitch Effect -->
+<!-- FOOTER: SHUTDOWN ANIMATION -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKsAds5eANHQJiw/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/26tn33aiU1jGWEOwn/giphy.gif" width="100%" />
 </div>
