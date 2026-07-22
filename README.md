@@ -4,10 +4,10 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uuroivpi7fwjlqj3kzt5j5t6xi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=false">
   </a>
 </p>
-<!-- CYBERPUNK GLITCH HEADER -->
-<div align="center" >
+<!-- <!-- CYBERPUNK GLITCH HEADER -->
+<!-- <div align="center" >
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGwxdG1yZHNrNncwdmNod2VxNG1tbzE3cGh1ZWgzdm83YnE5eDE5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aCqc8xWiLf0owCMCj1/giphy.gif" width="100%" height="250" style="object-fit: cover;" />
-</div>
+</div> --> -->
 
 <!-- TERMINAL BOOT SEQUENCE -->
 <div align="center">
@@ -78,22 +78,3 @@
 
 <br />
 
-<!-- Playable Snake Game -->
-<h3 align="center">🎮 PLAY SNAKE (Playable)</h3>
-<div align="center">
-  <p>Click the link below to open and play a lightweight Snake game included in this repository. You can open it directly in your browser or enable GitHub Pages to host it.</p>
-  <p>
-    • <a href="./snake.html" target="_blank">Open Snake Game (snake.html)</a> — open this file in your browser to play.
-  </p>
-  <p>
-    • To host the game via GitHub Pages: go to your repository Settings → Pages → Branch: main, folder: / (root), then save. The game will be available at https://crash2-k.github.io/crash2-k/snake.html
-  </p>
-  <p style="font-size:12px;color:#888;">Note: GitHub README cannot run JavaScript inline; open the HTML file to play.</p>
-</div>
-
-<br />
-
-<!-- FIXED FOOTER GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/LmqMk6aC9I18n8oT2q/giphy.gif" width="100%" />
-</div>
