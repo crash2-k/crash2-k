@@ -2,7 +2,7 @@
 
 <!-- CYBERPUNK GLITCH HEADER -->
 <div align="center" >
-  <img src="[https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGN4dTA3a3k1MWZpczh5ZnB1bnpqdTRiZnBpNGxjdjdscm45dXJmNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aCqc8xWiLf0owCMCj1/giphy.gif)" width="100%" height="250" style="object-fit: cover;" />
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="250" style="object-fit: cover;" />
 </div>
 
 <!-- TERMINAL BOOT SEQUENCE -->
