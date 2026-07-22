@@ -1,64 +1,61 @@
-<div align="center">
+<div align="left">
 
-# 🗡️ Welcome to My Digital Arena 🗡️
+# ⚡ `/// SYSTEM.INIT : crash2-k`
 
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+build+cool+stuff.;I+turn+coffee+into+code.;Check+out+my+repositories!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&vCenter=true&width=600&lines=Engineering+scalable+systems.;Finding+the+rhythm+in+logic.;Orchestrating+clean+architecture.;Code+is+my+frequency." alt="Typing SVG" />
 </a>
-
-<br><br>
-
-### ⚔️ The Warrior's Path (Recent Activity) ⚔️
-<!-- Here is the unique Warriors Fighting animation replacing the standard contribution snake -->
-<img src="https://media.giphy.com/media/l41YmQj1JqTEbNn0c/giphy.gif" alt="Warriors Fighting" width="600" style="border-radius: 10px; border: 2px solid #F72585; box-shadow: 0px 0px 15px #F72585;"/>
-<br>
-<p align="center"><i>Battling bugs and conquering commits on the daily.</i></p>
 
 <br>
 
-### 🎵 Live Battlefield Soundtrack 🎵
-<!-- Live Spotify Status -->
-<a href="https://www.instagram.com/kr15hna._/" target="_blank">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uuroivpi7fwjlqj3kzt5j5t6xi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Live Status" />
-</a>
+<p align="left" style="color: #A3B8CC;">
+  Software engineer focused on building robust, high-performance applications. I approach development with the mindset that good code requires precise frequencies, perfect timing, and seamless orchestration. When I'm not architecting databases or debugging complex logic, I'm usually monitoring the telemetry below.
+</p>
 
-<br><br>
+<hr style="border: 1px solid #1F2937; width: 100%;" />
 
-### 🛡️ Arsenal (Tech Stack) 🛡️
-<!-- Replace with your actual tech stack later -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,cpp,git,docker,linux&theme=dark&perline=5" alt="Skill Icons" />
-</a>
-
-<br><br>
-
-### 📊 Combat Stats 📊
-<table align="center">
+<table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td>
-      <!-- Replace YOUR_GITHUB_USERNAME below -->
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    <td width="50%" valign="top" style="border: none;">
+      <h3>⚙️ Core Technologies</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,cpp,docker,linux,git,bash&theme=dark&perline=5" alt="Tech Stack" />
+      </a>
     </td>
-    <td>
-      <!-- Replace YOUR_GITHUB_USERNAME below -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    <td width="50%" valign="top" style="border: none;">
+      <h3>🎧 Audio Telemetry (Live)</h3>
+      <a href="https://www.instagram.com/kr15hna._/" target="_blank">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uuroivpi7fwjlqj3kzt5j5t6xi&cover_image=true&theme=default&show_offline=false&background_color=0D1117&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Live Status" />
+      </a>
     </td>
   </tr>
 </table>
 
-<br><br>
+<br>
 
-### 🔗 Connect With Me (Socials) 🔗
-<!-- Social Badges - Replace with your URLs -->
-<a href="https://linkedin.com/in/YOUR_PROFILE" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<hr style="border: 1px solid #1F2937; width: 100%;" />
+
+### 📊 System Analytics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=crash2-k&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=A3B8CC&icon_color=38BDF8" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crash2-k&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideLabels=A3B8CC&sideNums=38BDF8&dates=A3B8CC" alt="GitHub Streak" />
+</p>
+
+<br>
+
+<hr style="border: 1px solid #1F2937; width: 100%;" />
+
+### 🔗 Secure Connections
+
+<a href="https://www.linkedin.com/in/krishnashahane/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://twitter.com/YOUR_HANDLE" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+<a href="https://x.com/Krishna822889" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
-<a href="mailto:YOUR_EMAIL@example.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="mailto:krishnashahane95@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8&logoBorderColor=38BDF8" alt="Email"/>
 </a>
 
 </div>
