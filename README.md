@@ -1,9 +1,13 @@
-
 <p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uuroivpi7fwjlqj3kzt5j5t6xi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
+<!-- <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uuroivpi7fwjlqj3kzt5j5t6xi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=false">
   </a>
-</p>
+</p> -->
 <!-- <!-- CYBERPUNK GLITCH HEADER -->
 <!-- <div align="center" >
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGwxdG1yZHNrNncwdmNod2VxNG1tbzE3cGh1ZWgzdm83YnE5eDE5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aCqc8xWiLf0owCMCj1/giphy.gif" width="100%" height="250" style="object-fit: cover;" />
