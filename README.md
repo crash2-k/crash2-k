@@ -46,6 +46,14 @@
 
 <hr style="border: 1px solid #1F2937; width: 100%;" />
 
+## 🔥 LeetCode Submission Heatmap
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/LlWThtEUCw?ext=heatmap&theme=dark&font=Nunito&border=1" />
+</p>
+
+---
+
 ### 🔗 Secure Connections
 
 <a href="https://www.linkedin.com/in/krishnashahane/" target="_blank">
