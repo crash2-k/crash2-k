@@ -46,6 +46,10 @@
 
 <hr style="border: 1px solid #1F2937; width: 100%;" />
 
+
+
+<img src="space-shooter.gif" alt="Project Demo" width="100%">
+
 ## 🔥 LeetCode Submission Heatmap
 
 <p align="center">
